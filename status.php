@@ -4,7 +4,7 @@
 	    <meta charset="utf-8">
 		<title>Kickass/KAT/Kickasstorrents - Availability Status + Verified Proxies</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/screen.css">
 
 		<link rel="shortcut icon" href="favicon.ico"/>
 

@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Style-Type" content="text/css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content=""/>
-    <title>Introduction - Community - Kickass Torrents</title>
+    <title><?php echo $forums['section']; ?> - Community - Kickass Torrents</title>
     <link rel="stylesheet" type="text/css" href="assets/css/css.css?v=6" charset="utf-8" />
     
     <script src="assets/js/js.js" type="text/javascript"></script>

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" dir="auto">
 <head>
@@ -7,23 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta name="description" content="Come and download new torrents absolutely for free."/>
 <title>Download New Torrents - Kickass Torrents</title>
-<script type="text/javascript">
 <link rel="stylesheet" type="text/css" href="assets/css/css.css" charset="utf-8"/>
-<link rel="shortcut icon" href="/kastatic/favicon.ico"/>
-<link rel="apple-touch-icon" href="/static/apple-touch-icon.png"/>
-<!--[if IE 7]>
-    <link href="/static/css/ie7.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-<!--[if IE 8]>
-    <link href="/static/css/ie8.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-<!--[if lt IE 9]>
-    <script src="/static/js/html5.min.js" type="text/javascript"></script>
-    <![endif]-->
-<!--[if gte IE 9]>
-    <link href="/static/css/ie9.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-<script src="/assets/js/js.js" type="text/javascript"></script>
+<link rel="shortcut icon" href="favicon.ico"/>
+<script src="assets/js/js.js" type="text/javascript"></script>
 <link rel="alternate" type="application/rss+xml" title="Subscribe to RSS feed" href="/new/rss/"/>
 <meta name="verify-v1" content="YccN/iP28SifHNEFY6u92i0ou3tAegQAIk2OyOJLp1s="/>
 <meta name="y_key" content="f0b40c3f5fee758f"/>
@@ -32,7 +17,7 @@
 <meta property="fb:app_id" content="123694587642603"/>
 <meta name="apple-mobile-web-app-capable" content="yes"/>
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
-<style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url(/static/images/logo.png)}</style></head>
+<style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url('https://cdn.pximg.xyz/d2c1586c07034bc321ffb696f9929b47.png')}</style></head>
 <body class="mainBody">
 <div id="wrapper">
 <div id="wrapperInner">
@@ -879,72 +864,6 @@ big easy motors S01
 <div class="leftcell">
 </div>
 </div>
-<div id="translate_site" style="display:none">
-<h3>Select Your Language</h3>
-<div class="textcontent">
-<div style="line-height:140%;-moz-column-width: 12em; -moz-columns: 12em; -webkit-columns: 12em; columns:12em;">
-<ul>
-<li class="current_lang"><a href="#" onclick="setLanguage('en', '.kat.am');return false;" class="plain"><strong>English</strong></a></li>
-<li><a href="#" onclick="setLanguage('af', '.kat.am');return false;" class="plain">Afrikaans</a></li>
-<li><a href="#" onclick="setLanguage('al', '.kat.am');return false;" class="plain">Albanian</a></li>
-<li><a href="#" onclick="setLanguage('arr', '.kat.am');return false;" class="plain">Arabic</a></li>
-<li><a href="#" onclick="setLanguage('ar', '.kat.am');return false;" class="plain">Arabic (Modern)</a></li>
-<li><a href="#" onclick="setLanguage('eu', '.kat.am');return false;" class="plain">Basque</a></li>
-<li><a href="#" onclick="setLanguage('bn', '.kat.am');return false;" class="plain">Bengali</a></li>
-<li><a href="#" onclick="setLanguage('bs', '.kat.am');return false;" class="plain">Bosnian</a></li>
-<li><a href="#" onclick="setLanguage('br', '.kat.am');return false;" class="plain">Brazilian Portuguese</a></li>
-<li><a href="#" onclick="setLanguage('bg', '.kat.am');return false;" class="plain">Bulgarian</a></li>
-<li><a href="#" onclick="setLanguage('ch', '.kat.am');return false;" class="plain">Chinese Simplified</a></li>
-<li><a href="#" onclick="setLanguage('tw', '.kat.am');return false;" class="plain">Chinese Traditional</a></li>
-<li><a href="#" onclick="setLanguage('hr', '.kat.am');return false;" class="plain">Croatian</a></li>
-<li><a href="#" onclick="setLanguage('cz', '.kat.am');return false;" class="plain">Czech</a></li>
-<li><a href="#" onclick="setLanguage('da', '.kat.am');return false;" class="plain">Danish</a></li>
-<li><a href="#" onclick="setLanguage('nl', '.kat.am');return false;" class="plain">Dutch</a></li>
-<li><a href="#" onclick="setLanguage('tl', '.kat.am');return false;" class="plain">Filipino</a></li>
-<li><a href="#" onclick="setLanguage('fi', '.kat.am');return false;" class="plain">Finnish</a></li>
-<li><a href="#" onclick="setLanguage('fr', '.kat.am');return false;" class="plain">French</a></li>
-<li><a href="#" onclick="setLanguage('ka', '.kat.am');return false;" class="plain">Georgian</a></li>
-<li><a href="#" onclick="setLanguage('de', '.kat.am');return false;" class="plain">German</a></li>
-<li><a href="#" onclick="setLanguage('el', '.kat.am');return false;" class="plain">Greek</a></li>
-<li><a href="#" onclick="setLanguage('he', '.kat.am');return false;" class="plain">Hebrew</a></li>
-<li><a href="#" onclick="setLanguage('hi', '.kat.am');return false;" class="plain">Hindi</a></li>
-<li><a href="#" onclick="setLanguage('hu', '.kat.am');return false;" class="plain">Hungarian</a></li>
-<li><a href="#" onclick="setLanguage('id', '.kat.am');return false;" class="plain">Indonesian</a></li>
-<li><a href="#" onclick="setLanguage('it', '.kat.am');return false;" class="plain">Italian</a></li>
-<li><a href="#" onclick="setLanguage('kn', '.kat.am');return false;" class="plain">Kannada</a></li>
-<li><a href="#" onclick="setLanguage('ko', '.kat.am');return false;" class="plain">Korean</a></li>
-<li><a href="#" onclick="setLanguage('lv', '.kat.am');return false;" class="plain">Latvian</a></li>
-<li><a href="#" onclick="setLanguage('lt', '.kat.am');return false;" class="plain">Lithuanian</a></li>
-<li><a href="#" onclick="setLanguage('mk', '.kat.am');return false;" class="plain">Macedonian</a></li>
-<li><a href="#" onclick="setLanguage('ml', '.kat.am');return false;" class="plain">Malayalam</a></li>
-<li><a href="#" onclick="setLanguage('ms', '.kat.am');return false;" class="plain">Malaysian</a></li>
-<li><a href="#" onclick="setLanguage('ne', '.kat.am');return false;" class="plain">Nepali</a></li>
-<li><a href="#" onclick="setLanguage('no', '.kat.am');return false;" class="plain">Norwegian</a></li>
-<li><a href="#" onclick="setLanguage('pr', '.kat.am');return false;" class="plain">Pirate</a></li>
-<li><a href="#" onclick="setLanguage('pl', '.kat.am');return false;" class="plain">Polish</a></li>
-<li><a href="#" onclick="setLanguage('pt', '.kat.am');return false;" class="plain">Portuguese</a></li>
-<li><a href="#" onclick="setLanguage('pa', '.kat.am');return false;" class="plain">Punjabi</a></li>
-<li><a href="#" onclick="setLanguage('ro', '.kat.am');return false;" class="plain">Romanian</a></li>
-<li><a href="#" onclick="setLanguage('ru', '.kat.am');return false;" class="plain">Russian</a></li>
-<li><a href="#" onclick="setLanguage('sr', '.kat.am');return false;" class="plain">Serbian</a></li>
-<li><a href="#" onclick="setLanguage('src', '.kat.am');return false;" class="plain">Serbian-Cyrillic</a></li>
-<li><a href="#" onclick="setLanguage('bsc', '.kat.am');return false;" class="plain">Serbian-Cyrillic (ijekavica)</a></li>
-<li><a href="#" onclick="setLanguage('si', '.kat.am');return false;" class="plain">Sinhala</a></li>
-<li><a href="#" onclick="setLanguage('sk', '.kat.am');return false;" class="plain">Slovak</a></li>
-<li><a href="#" onclick="setLanguage('sl', '.kat.am');return false;" class="plain">Slovenian</a></li>
-<li><a href="#" onclick="setLanguage('es', '.kat.am');return false;" class="plain">Spanish</a></li>
-<li><a href="#" onclick="setLanguage('sw', '.kat.am');return false;" class="plain">Swahili</a></li>
-<li><a href="#" onclick="setLanguage('sv', '.kat.am');return false;" class="plain">Swedish</a></li>
-<li><a href="#" onclick="setLanguage('ta', '.kat.am');return false;" class="plain">Tamil</a></li>
-<li><a href="#" onclick="setLanguage('te', '.kat.am');return false;" class="plain">Telugu</a></li>
-<li><a href="#" onclick="setLanguage('tr', '.kat.am');return false;" class="plain">Turkish</a></li>
-<li><a href="#" onclick="setLanguage('uk', '.kat.am');return false;" class="plain">Ukrainian</a></li>
-<li><a href="#" onclick="setLanguage('ur', '.kat.am');return false;" class="plain">Urdu</a></li>
-<li><a href="#" onclick="setLanguage('vi', '.kat.am');return false;" class="plain">Vietnamese</a></li>
-</ul>
-</div>
-</div>
-</div>
 </div>
 </div>
 <footer class="lightgrey">
@@ -970,30 +889,5 @@ big easy motors S01
 <a class="chatButton"><span>Open chat</span></a>
 <div data-sc-slot="_673e31f53f8166159b8e996c4124765b"></div>
 <div data-sc-slot="_e7050fb15fd39b3e4e99a5be4a57b6ea"></div>
-<script>
- sc('addGlobal', 'pagetype', 'other');
-</script>
-<script type="text/javascript"><!--
-document.write("<a style='display:none;' href="/click" "+
-"target=_blank><img src='/hit?t45.6;r"+
-escape(document.referrer)+((typeof(screen)=="undefined")?"":
-";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-";h"+escape(document.title.substring(0,80))+";"+Math.random()+
-"' alt='' title='LiveInternet' "+
-"border='0' width='0' height='0'><\/a>")
-//--></script>
-</div></div><div style="text-align:center;"></div><style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url(/static/images/logo.png)}</style><div style="text-align:center;"><div style="display:none"> <div id="histats_counter"></div>
- 
-<script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,3545709,4,511,95,18,00000000']);
-_Hasync.push(['Histats.fasi', '1']);
-_Hasync.push(['Histats.track_hits', '']);
-(function() {
-var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-hs.src = ('//s10.histats.com/js15_as.js');
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
-})();</script>
-<noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?3545709&101" alt="stats online users" border="0"></a></noscript>
- </div></div></body>
+</div></div><div style="text-align:center;"></div><style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url('https://cdn.pximg.xyz/d2c1586c07034bc321ffb696f9929b47.png')}</style></body>
 </html>

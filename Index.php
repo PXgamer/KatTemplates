@@ -9,7 +9,7 @@
 <title>KAT - Kickass Torrents</title>
 <meta name="keywords" content=""/>
 <link rel="stylesheet" type="text/css" href="assets/css/css.css" charset="utf-8"/>
-<link rel="shortcut icon" href="/kastatic/favicon.ico"/>
+<link rel="shortcut icon" href="favicon.ico"/>
 <link rel="apple-touch-icon" href="/static/apple-touch-icon.png"/>
 <!--[if IE 7]>
     <link href="/static/css/ie7.css" rel="stylesheet" type="text/css"/>
@@ -32,7 +32,7 @@
 <meta property="fb:app_id" content="123694587642603"/>
 <meta name="apple-mobile-web-app-capable" content="yes"/>
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
-<style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url(/static/images/logo.png)}</style></head>
+<style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url('https://cdn.pximg.xyz/d2c1586c07034bc321ffb696f9929b47.png')}</style></head>
 <body class="mainBody">
 <div id="wrapper">
 <div id="wrapperInner">
@@ -2269,7 +2269,7 @@ the purge
 <a class="chatButton"><span>Open chat</span></a>
 <div data-sc-slot="_673e31f53f8166159b8e996c4124765b"></div>
 <div data-sc-slot="_e7050fb15fd39b3e4e99a5be4a57b6ea"></div>
-<script type="text/javascript" charset="utf-8">$(document).ready(function() {  $("#contentSearch").focus(); });</script><div style="text-align:center;"></div><style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url(/static/images/logo.png)}</style><div style="text-align:center;"><div style="display:none"> <div id="histats_counter"></div>
+<script type="text/javascript" charset="utf-8">$(document).ready(function() {  $("#contentSearch").focus(); });</script><div style="text-align:center;"></div><style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url('https://cdn.pximg.xyz/d2c1586c07034bc321ffb696f9929b47.png')}</style><div style="text-align:center;"><div style="display:none"> <div id="histats_counter"></div>
 
 <script type="text/javascript">var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,3545709,4,511,95,18,00000000']);

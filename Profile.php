@@ -8,21 +8,9 @@
 <meta name="description" content=""/>
 <title>Profile of ZombieQueen - Kickass Torrents</title>
 <link rel="stylesheet" type="text/css" href="assets/css/css.css" charset="utf-8"/>
-<link rel="shortcut icon" href="/kastatic/favicon.ico"/>
+<link rel="shortcut icon" href="favicon.ico"/>
 <link rel="apple-touch-icon" href="/static/apple-touch-icon.png"/>
-<!--[if IE 7]>
-    <link href="/static/css/ie7.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-<!--[if IE 8]>
-    <link href="/static/css/ie8.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-<!--[if lt IE 9]>
-    <script src="/static/js/html5.min.js" type="text/javascript"></script>
-    <![endif]-->
-<!--[if gte IE 9]>
-    <link href="/static/css/ie9.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-<script src="/assets/js/js.js" type="text/javascript"></script>
+<script src="assets/js/js.js" type="text/javascript"></script>
 <link rel="alternate" type="application/rss+xml" title="Subscribe to RSS feed" href="/?rss=1"/>
 <meta name="verify-v1" content="YccN/iP28SifHNEFY6u92i0ou3tAegQAIk2OyOJLp1s="/>
 <meta name="y_key" content="f0b40c3f5fee758f"/>
@@ -31,7 +19,7 @@
 <meta property="fb:app_id" content="123694587642603"/>
 <meta name="apple-mobile-web-app-capable" content="yes"/>
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
-<style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url(/static/images/logo.png)}</style></head>
+<style>.feedbackButton,.spareBlock{display:none}header a#logo{background:url('https://cdn.pximg.xyz/d2c1586c07034bc321ffb696f9929b47.png')}</style></head>
 <body class="mainBody">
 <div id="wrapper">
 <div id="wrapperInner">
@@ -1431,7 +1419,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 //--></script>
 
 </div></div><div style="text-align:center;"></div><style>.feedbackButton,.spareBlock{display:none}
-header a#logo{background: url(/static/images/logo.png)}</style><div style="text-align:center;"><div style="display:none"><!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+header a#logo{background: url('https://cdn.pximg.xyz/d2c1586c07034bc321ffb696f9929b47.png')}</style><div style="text-align:center;"><div style="display:none"><!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
 <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,3545709,4,511,95,18,00000000']);
