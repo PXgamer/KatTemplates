@@ -10,12 +10,13 @@
 
 		<meta name="description" content="KAT Status">
 		<link rel="manifest" href="manifest.json">
+		<?php include 'ping_cron.php' ?>
 	</head>
 	<body>
 		<header>
 			<nav>
 				<h1 class="logo">
-					<a href="https://ourdomain.com/" style="text-decoration:none">
+					<a href="<?php echo $_SERVER['HTTP_HOST']; ?>" style="text-decoration:none">
 						<img src="assets/img/logo-small.svg" align="left" border=0 width="72">
 						<span>Kickass<strong>Torrents</strong>
 						<sub title="100% / 100% / 100%">Site status</sub></span>
@@ -42,15 +43,18 @@
 									<section class="b-proxy">
 						<p class="grey">Can't access <a href="https://ourdomain.cr/">ourdomain.cr</a>? Is it slow or unresponsive? Getting DNS error? Try to use one of our safe mirrors:</p>
 						<ul>
-							<li><a href="https://Mirror1.co/" class="domainLink">Mirror1.co</i></a></li>
-							<li><a href="https://Mirror2.ag/" class="domainLink">Mirror2.ag</a></li>
-							<li><a href="https://Mirror3.ac/" class="domainLink">Mirror3.ac</a></li>
-							<li><a href="https://Mirror4.tv/" class="domainLink">Mirror4.tv</a></li>
-							<li><a href="https://Mirror5.se/" class="domainLink">Mirror5.se</a></li>
-							<li><a href="https://Mirror6.is/" class="domainLink">Mirror6.is</a></li>
-							<li><a href="https://Mirror7.cc/" class="domainLink">Mirror7.cc</a></li>
-							<li><a href="https://Mirror8.org/" class="domainLink">Mirror8.org</a></li>
-							<li><a href="http://Mirror9.onion/" class="domainLink">Mirror9.onion</a></li>
+							<?php
+								foreach ($http_status as $site => $status) {
+									echo "<li><a href=\"$site\" class=\"domainLink\"><span class=\"";
+									if ($status > 400 || $status == 0) {
+										echo "icon-cross-circle";
+									}
+									else {
+										echo "icon-checkmark-circle-green";
+									}
+									echo "\"></span> $site</a></li>";
+								}
+							?>
 						</ul>
 					</section>
 				</section>
@@ -60,7 +64,7 @@
 			<section class="b-request">
 				<h2>Still can't get to the site?</h2>
 				<p class="grey">Tell us about your problem</p>
-				<a href="mailto:pr@kat.cr?Subject=Report%20from%20kastatus" class="btn">CONTACT US</a>
+				<a href="mailto:email.address@domain.name?Subject=Report%20from%20ourdomain" class="btn">CONTACT US</a>
 			</section>
 		</footer>
 	</body>
