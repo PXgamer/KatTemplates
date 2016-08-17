@@ -100,7 +100,7 @@ div.clear {
 }
 
 header {
-	height: 100px;
+	height: 85px;
 	background:#594C2D;
 }
 
@@ -227,9 +227,18 @@ section
 .icon-cross-circle{
 	color:#F57474;
 }
-.icon-checkmark-circle{
-	color:#6ECD9D;
+.icon-checkmark-circle-green{
+	color:#6ECD9D !important;
 }
+
+.icon-checkmark-circle-red {
+	color:#FF0000 !important;
+}
+
+.icon-checkmark-circle-brown{
+	color:#594C2D !important;
+}
+
 .b-proxy{
 	text-align: center;
 	font-size: 1em;
@@ -296,7 +305,7 @@ footer section {
 	/*-webkit-align-self: auto;*/
 	/*-ms-flex-item-align: auto;*/
 	/*align-self: auto;*/
-	float: right;
+	text-align: center;;
 }
 
 footer .btn{

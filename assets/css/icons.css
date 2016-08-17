@@ -64,7 +64,13 @@
 .icon-menu-circle:before {
     content: "\e958";
 }
-.icon-checkmark-circle:before {
+.icon-checkmark-circle-green:before {
+    content: "\e959";
+}
+.icon-checkmark-circle-brown:before {
+    content: "\e959";
+}
+.icon-checkmark-circle-red:before {
     content: "\e959";
 }
 .icon-cross-circle:before {
