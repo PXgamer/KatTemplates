@@ -2,7 +2,7 @@
 
 $urls = [
 	'https://katcr.co/',
-	'https://pximg.xyz/'
+	'https://kat.cr/'
 	];
 
 foreach ($urls as $url) {
